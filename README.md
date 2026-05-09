@@ -51,7 +51,21 @@ lib/
 | 16 | Shuttle Lot | 150 |
 | 17 | West Parking Deck | 200 × 4 floors |
 
-## Getting started
+## Viewing the app (no coding required)
+
+Follow these steps to run the app in your browser using Appetize.io:
+
+1. **Create a free account** at [appetize.io](https://appetize.io) and sign in
+2. Click **"Upload"** on the dashboard
+3. Upload the file `app-debug.apk` (located in `build/app/outputs/flutter-apk/`)
+4. When prompted to choose a device, select **Pixel 8**
+5. Click **"Tap to Play"** — the app will launch in your browser within a few seconds
+
+No phone or installation needed. The app runs entirely in your browser window.
+
+---
+
+## Getting started (for developers)
 
 **Prerequisites:** Flutter SDK ≥ 3.0.0
 
